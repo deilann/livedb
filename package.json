@@ -21,7 +21,8 @@
   },
   "scripts": {
     "prepublish": "make all",
-    "test": "mocha"
+    "test": "mocha",
+    "install": "make all"
   },
   "repository": {
     "type": "git",
